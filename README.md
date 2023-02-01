@@ -44,7 +44,6 @@
 ## 🌟 Github Stats
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=gutoetz&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Augusto Etz" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoetz&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Augusto Etz" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoetz&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Augusto Etz" height="165" />
 </p>
 
