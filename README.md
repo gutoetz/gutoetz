@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hii, it's a pleasure to have you here, Welcome!
 
-<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQEz4eg644zyZg/profile-displaybackgroundimage-shrink_350_1400/0/1672339724653?e=1680739200&v=beta&t=R2sdtlCP9fkw6I_1Mw4Kn94q2juBR6MxqvLUMFAxXsQ" alt="banner, will ad later">
+<img width="100%" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"> ]([url](https://www.linkedin.com/in/augustoetz/))]
 
 <div>
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
